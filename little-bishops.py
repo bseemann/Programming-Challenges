@@ -1,12 +1,12 @@
 #!/usr/bin/python
 #
-#UVa Judge ID: 110801
-#http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=802
+#   UVa Judge ID: 861
+#   http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=802
 #
-#Little Bishops
+#   Little Bishops
 #
 
-"""Solution to the Little Bishops problem. UVa Judge ID 110801."""
+"""Solution to the Little Bishops problem. UVa Judge ID 861."""
 
 __author__ = ('Srivani Narra')
 
